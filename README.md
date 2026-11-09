@@ -82,6 +82,12 @@ Combina bem com o **Legal MCP** e o **DataJud MCP** pra due diligence completa.
 
 ---
 
+## JusFarol
+
+Base CNPJ aberta da Receita cruzada com a dívida ativa da PGFN.
+
+---
+
 ## Preços
 
 Grátis.
